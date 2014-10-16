@@ -1,0 +1,12 @@
+# Site settings
+title: Using Hypothes.is In Publishing Workflows
+email: mpublishing@umich.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This is a working, collaborative document between Michigan Publishing and Hypothes.is, exploring ways that Hypothes.is can be integrated into a publishing workflow.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jmcglone.github.io/h-publishing" # the base hostname & protocol for your site
+twitter_username: m_publishing
+github_username:  jmcglone/h-publishing
+
+# Build settings
+markdown: kramdown
