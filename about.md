@@ -8,4 +8,6 @@ This is working, collaborative document between the staff at the University of M
 
 You can find the source documents for this site at [github.com/jmcglone/h-publishing](https://github.com/jmcglone/h-publishing).
 
+You can find the source code for and learn how to contribute to the hypothes.is project at [github.com/hypothesis/h](https://github.com/hypothesis/h).
+
 This site is powered by [Jekyll v2.4.0](http://jekyllrb.com/), uses the [base Jekyll theme](https://github.com/jglovier/jekyll-new), and is hosted by [GitHub Pages](https://pages.github.com/).
