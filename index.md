@@ -11,12 +11,6 @@ Accordingly this document outlines features, questions, and requirements organiz
 * Single sign on/Integration with university login/credentials
 * GitHub integration
 * WordPress integration
-	* Comment BY 'Dan Whaley' ON '2014-09-03T16:10:34'  
-		* 'Do you mean in terms of having H. work on WP period, or in terms of having edit suggestions be able to be written back to WP and update the original source?'  
-		* Comment BY 'Randall Leeds' ON '2014-08-13T23:24:06'  
-			* 'Or totally alternative things this could mean: annotations self-hosted in wordpress. Annotations appearing in place of wordpress comments. Wordpress comments appearing as page comments in the sidebar. Etc, etc, etc. Interested to hear.'
-		* Comment BY 'Rebecca Welzenbach' ON '2014-09-03T16:10:34'  
-			* 'These are all great suggestions! I like the idea of annotations being used instead of comments on wordpress; I assume that on a published wordpress page/post displayed in a web browser, this would already work anyway as part of basic h functionality. For this particular document, I believe we had in mind incorporating annotations into the process of authoring, editing, and versioning Wordpress drafts.'
 
 ## Big questions in the whole editorial workflow
 
