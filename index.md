@@ -38,26 +38,14 @@ Accordingly this document outlines features, questions, and requirements organiz
 
 * Anonymity/aliasing for reviewers (so John Smith can be represented as Reviewer A, Sue Jones as Reviewer B, etc.). The ability to differentiate between reviewers, and to find all annotations by a single reviewer, is important, so we don't want annotations to be completely anonymized.
 	* Optional: only certain people (with admin privs, like an editor) can toggle the alias or anonymity for users.
-		* Comment BY 'Dan Whaley' ON '2014-08-13T19:03:58'
-			* 'This functionality is presently contemplated under work we are doing under the Sloan grant with eLife and AGU.'
 * Ability to display a specific user's annotations/comments (show only Reviewer A's comments, hide Reviewer B's comments)
-	* Comment BY 'Dan Whaley' ON '2014-08-13T21:14:10'
-		* 'Yes, under Sloan work.'
 * Ability to easily link to other annotations within an annotation (without having to manually embed a link).
 	* Optional: Auto-complete self-referencing (keyboard shortcut? some textual cue like--_sub., sup., Cf., see also_, etc.--that you want to refer to an earlier annotation? Then either you select from previous annotations which one you're referring to, or start typing what you wrote in the other annotation, and hypothes.is it finds it for you)
-		* Comment BY 'Dan Whaley' ON '2014-08-13T19:19:01'
-			* 'EXPLORE'
 * Reviewers cannot be able to see each other's comments
-	* Comment BY 'Dan Whaley' ON '2014-08-13T19:19:43'
-		* 'Yes, under Sloan work'
 * Ability to export annotations to a report document that can be presented to an executive committee, author, or approval board.
 	* The ability to self-select which annotations are exported.
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:15:21'
-			* 'Yes, under Sloan work'
 * Ability to label or categorize type of comment, and filter for those
 	* especially to indicate a final decision such as : "accept, reject, or accept with revisions." 
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:15:38'
-			* 'Functional now.'
 
 ### Author
 
