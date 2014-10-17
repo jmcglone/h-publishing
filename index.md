@@ -52,21 +52,11 @@ Accordingly this document outlines features, questions, and requirements organiz
 *Author gets the document back with reviewer comments and makes revision. The functions suggested here mostly reflect our broader questions and concerns about the relationship between hypothes.is and any work in progress--see the comments at the top of this document.*
 
 * Is the revised text a brand new document? 
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:19:07'  
-		* 'It depends first of all whether it \*is\* a new document. For instance, if a Wordpress page is simply updated, then it's not a different document. However, different documents (at distinct URLs) can be "related" to each other. This can happen a variety of ways. Most easily through the use of rel=canonical or rel=alternate microformats in the HTML. If the revised document is related to the original, then pre-existing annotations will attempt to reanchor themselves to the original. Differences in the selections of those annotations will "show differences".'
 * Alternatively, can the author go through the editor/reviewer comments and "resolve" each? 
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:20:23'  
-		* 'This will be one of the very first features of a set of copy-editing features. <https://github.com/hypothesis/vision/issues/50>'
 	* Do resolved annotations go away? Or are they preserved--in the hypothes.is stream?
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:22:16'  
-			* 'We imagine that they will \*not\* go away, but instead will be hidden from display by default. They will be discoverable on the document or in the stream if "show resolved" is toggled on (conceptually). Some of this is covered in design notes on a currently ongoing redesign here: <https://docs.google.com/a/hypothes.is/document/d/14OzyeX6-5K3uuYvoWMhABr7JOYiBXlC0RTLKyr-Wj2E/edit>
 * Author needs to be able to respond to annotations and perhaps export those to a document/report
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:23:10'  
-		* 'Yes, export of a variety of selections of annotations is a core anticipated feature. This will covered under the Sloan work above.'
 * Support for layering annotations to versions of a document 
 	* For example, if a document has been through multiple versions and those are somehow preserved, the ability to look at the history
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:24:49'
-			* 'The question is, where is the version history of the document, and how is it accessed. This is clearly an important capability, and one we've thought of often. So much depends on how the different pieces integrate-- which depends on those pieces.'
 
 ## Copy editing
 
