@@ -10,10 +10,6 @@ Accordingly this document outlines features, questions, and requirements organiz
 
 * Single sign on/Integration with university login/credentials
 * GitHub integration
-	* Comment BY 'Dan Whaley' ON '2014-09-03T16:06:56'
-		* Can you clarify what you mean by integration?'
-			* Comment BY 'Rebecca Welzenbach' ON '2014-09-03T16:06:56'
-				* 'We were just thinking here of possible web-based, version-controlled authoring platforms that already exist; environments where cycles of review and editing might take place. So in this case, we imagined annotations being integrated back into a text, forming a new version of that file.'
 * WordPress integration
 	* Comment BY 'Dan Whaley' ON '2014-09-03T16:10:34'  
 		* 'Do you mean in terms of having H. work on WP period, or in terms of having edit suggestions be able to be written back to WP and update the original source?'  
