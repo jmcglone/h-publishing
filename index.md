@@ -25,27 +25,13 @@ Accordingly this document outlines features, questions, and requirements organiz
 *In this context, authoring is considered writing and developing a manuscript in MS Word or a web-based CMS like WordPress, Google Docs, or a collaborative environment like GitHub. In this use case the users would be the author(s), acquiring editor, and maybe selected colleagues or contributors to an edited volume.*
 
 *	Ability to incorporate an annotation that is a suggested change into the text (effectively, a track changes function). Suggested anchoring to previous version.
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:19:46'  
-		* 'This would require CMS integration-- and is a question of whether the platform enables it.'
-		* Comment BY 'Benjamin Young' ON '2014-08-13T20:19:46'  
-			* 'If the annotation were stated to be an actually revision of the selected content, then we could provide a standard diff format as a representation of the annotation. CMS vendors (or extenders) would have to care / implement the in-between bits, however.'
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:18:26'
-		* 'RE: anchoring to previous version : Again, a question of whether the platform supports versioning, and provides an API into that version history.'
-		* Comment BY 'Benjamin Young' ON '2014-08-13T20:18:26'  
-			* NOTE: 'RFC5829 <http://tools.ietf.org/html/rfc5829> would give us "knowledge" that the page is a version of another resource. We could provide UI affordances once we have that knowledge.'
 *	Closed/private group functionality
-	* Comment BY 'Dan Whaley' ON '2014-08-13T19:01:26'
-		* 'On the roadmap: <https://github.com/hypothesis/vision/issues/52>
 *	Easy integration of bibliographic sources into annotations. 
 	* Drag/drop bibliographic sources from a citation management system such as Zotero or EndNote.
 	* Autocomplete sources you've already used?
 	* Quick view of all annotations referring to/citing a single source
-		* Comment BY 'Dan Whaley' ON '2014-08-13T19:19:23'
-			* 'RE: integrating bib sources: not presently contemplated: EXPLORE'
 * Use for composing endnotes/footnotes: write your notes as annotations, then have a way to convert all annotations (or selected/tagged ones) into endnotes/footnotes that are written into the document.
-	* Comment BY 'Dan Whaley' ON '2014-08-13T19:19:14'
-		* 'Not presently contemplated: EXPLORE.' 
-
+	
 ## Peer Review
 
 ### Reviewers/Editors
