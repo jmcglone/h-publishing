@@ -15,19 +15,10 @@ Accordingly this document outlines features, questions, and requirements organiz
 ## Big questions in the whole editorial workflow
 
 * How far can hypothes.is go (or how far does it want to go) in terms of cycling through versions and development of a manuscript? For example, in the editing process when the purpose of an annotation is to change the document, which then changes the annotations, and on and on.
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:12:04'
-		* 'I think a combination of fuzzy anchoring, versioning and resolution can be effective here. So, one a suggestion is made to a manuscript that is accepted, the suggestion should be "resolved", which removes it from default view (though should still be discoverable later).'
-			* Comment BY 'Benjamin Young' ON '2014-08-13T20:12:04'
-				* 'RFC5829 <http://tools.ietf.org/html/rfc5829> provides the ability for one URL to state that it's a version of another URL.'  
-				* 'Open Annotation provides "motivation" concepts--one of which is "editing"--which could be used in combination to provide a "resolved" state: first annotation is motivated by "editing" the second annotation is motivated by "moderation" (or perhaps a new type) and likely links to the URL of the version things were "resolved" in.'
+	
 * We feel this is a deeper and more complex issue than the question of fuzzy anchoring as a technical solution for annotating a portion of text that might change. To support annotation in the manuscript development/editorial process, the expectation and goal is for the entire document to evolve, perhaps radically. For the annotations to remain useful, Hypothes.is will need to entirely integrate with–or become!–some kind of version controlled authoring platform.
-	* Comment BY 'Dan Whaley' ON '2014-09-03T17:29:21'
-		* 'I think the handling of versions should be done by the underlying CMS, whether that's WP, github, gdocs, or whatever. We exist as a layer above that, but can interact with it if integrated. Not all CMSs handle versioning, and so therefore, an integrated experience may differ considerably based on the CMS or document store being used. We have notions eventually to support memento style queries for time stamped versions of a document-- and being able to go back to the version of a page at the point that an an annotation is created. I think the notion of "resolving" is potentially the right way to think about things. All annotations are always preserved (in the same way that all track changes in word are). There may be a few kinds of affordances that track changes gives you that a CMS+annotation approach do not, but this combination may allow a fair amount of functionality. Experiment and iterate.'
+	
 * We can think about this directionally: It seems that the function of hypothes.is to build an increasingly dense and robust web of annotation and commentary \*out\* from a core text? But in the context of authoring/editing, the relationship seems much more contained and internally focused: a layer of annotation reflected back at the text, and vice versa. What are the implications of re-purposing hypothes.is in this way? 
-	* Comment BY 'Dan Whaley' ON '2014-08-13T23:29:06'
-		* 'I don't see this as a repurposing so much as a use case of a combined set of capabilities that are core to our mission.'
-  		* Comment BY 'Randall Leeds' ON '2014-08-13T23:29:06'
-			* 'Same. I see this as two steps. The first is to have Hypothes.is expose the annotations in a way that's very accessible to developers working at various levels. The next is to develop the integrations that produce the flows needed. For instance, if we keep "Hypothesis" separate and aside for a moment, a WordPress plugin might modify the editor to show suggested edits by querying the annotations and finding ones which are suggested edits. The actual integration then isn't "Hypothesis" so much as it is a separate thing which leverages Hypothesis.'
 
 ## Authoring
 
