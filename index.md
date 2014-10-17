@@ -9,8 +9,6 @@ Accordingly this document outlines features, questions, and requirements organiz
 ## Integration with AUTH and CMS
 
 * Single sign on/Integration with university login/credentials
-	* Comment BY 'Jake Hartnell' ON '2014-09-23T22:54:10' 
-		* 'Annotate.' 
 * GitHub integration
 	* Comment BY 'Dan Whaley' ON '2014-09-03T16:06:56'
 		* Can you clarify what you mean by integration?'
