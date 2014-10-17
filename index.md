@@ -93,62 +93,31 @@ Accordingly this document outlines features, questions, and requirements organiz
 *The everyday reader of a journal or monograph who would be using and or interacting with hypothes.is annotations and comments.*
 
 * permanent URI for an annotation so it could be cited or pointed to.
- 	* Comment BY 'Rebecca Welzenbach' ON '2014-08-13T20:30:06'  
-		* 'This is an existing feature of hypothes.is, or at least is meant to be--with "how permanent is permanent" being an open question...'
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:30:06'  
-			* 'As permanent and reliable as the operator of your store of annotations. (Our code is open source, you can host it yourself.)'
 * Notifications (when someone replies to your annotation)
-	* BY 'Dan Whaley' ON '2014-08-13T20:39:51'  
-		* '\*Email\* notifications are implemented and about to be deployed.'
 * Ability to "watch" \*any\* annotation and be notified of \*any\* reply
-	* Comment BY 'Dan Whaley' ON '2014-08-13T21:16:13'  
-		* 'We've discussed. EXPLORE'
 * Orcid ID integration
 	* This could help ID certain annotators/commenters and also help establish authority.
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:39:21'  
-			* 'This is anticipated under several ongoing implementations (arXiv, eLife, AGU) and also other proposals in process.'
 * Citation mgmt integration
 	* drag and drop a citation from zotero or EndNote into an annotation you are making
 	* Actually CITE an annotation as a resource in zotero or endnote!
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:51:06'  
-			* 'EXPLORE'
 * Mute thread/annotation(s)
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:50:57'  
-		* 'Anticipated with any advanced notification functionality: EXPLORE.']
 * Complex filter on article pages
 	* location
 	* sort by discipline (based on orcid id)
 	* time/when comment was made
 	* username
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:40:35'  
-		* 'We are in the process of redesigning the current View/sort controls. Design notes here: <https://docs.google.com/a/hypothes.is/document/d/14OzyeX6-5K3uuYvoWMhABr7JOYiBXlC0RTLKyr-Wj2E/edit>'
 * Flag/report comment
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:41:32'  
-		* 'Anticipated as a form of spam control above. Same functionality.'
 * Profile pages?
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:45:01'  
-		* 'Anticipated: <https://github.com/hypothesis/vision/issues/28>'
 * Direct/private messaging between users 
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:50:32'  
-		* 'This has been occasionally discussed. EXPLORE.'
 * notifying/alerting other users in annotation (@username, +username)
-	* BY 'Dan Whaley' ON '2014-08-13T20:47:53'
-		* 'Anticipated: (Issue number pending)'
 
 ### Author (Post-production)
 
 * get notifications for annotations on your published articles (even if you are not the publisher). 
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:49:08' 
-		* 'Anticipated. (Discussed above): Issue: <https://github.com/hypothesis/vision/issues/44>'
 * From a dashboard: ability to watch your work published all over/anywhere on the web
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:49:42'  
-		* 'This should be part of stream functionality. We anticipate this. EXPLORE.']
 	* add to my dashboard/add to my list of tracking articles type button
 * integration with orcid profile/google scholar
 * Annotations made by the author of a work are visibly different, so that readers may quickly recognize them (e.g. if the ORCID ID of the annotator matches that of the author, the annotation shows up in green)
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:50:12'
-		* 'Anticipated: Need issue number.'
-  
   
 
 
