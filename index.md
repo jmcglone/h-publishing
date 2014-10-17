@@ -9,8 +9,6 @@ Accordingly this document outlines features, questions, and requirements organiz
 ## Integration with AUTH and CMS
 
 * Single sign on/Integration with university login/credentials
-	* Comment BY 'Dan Whaley' ON '2014-09-03T18:03:55'  
-		* 'Much of the SSO work will be completed shortly. Issue: <https://github.com/hypothesis/vision/issues/42>'
 	* Comment BY 'Jake Hartnell' ON '2014-09-23T22:54:10' 
 		* 'Annotate.' 
 * GitHub integration
