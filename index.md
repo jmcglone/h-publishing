@@ -63,15 +63,7 @@ Accordingly this document outlines features, questions, and requirements organiz
 *Usually a single copy editor working alone and then sharing changes, questions, and suggestions with the author via annotations and comments.*
 
 * Integrate copy editing review/mark and vocabulary standards (Chicago, MLA) and allow for shortcuts.
-	* Comment BY 'Dan Whaley'
-		* We would love to have a call about these-- perhaps a larger call w/ other partners, review these and see how they can be effectively integrated into an annotation tool like H. Is there a link to these?
-			* Comment BY 'Rebecca Welzenbach'
-				* agree that this will require input from a different set of experts/stakeholders. We are none of us trained copyeditors or especially familiar with these marks ourselves. However, we have a number of such people in our office (and of course other partners probably do as well). We could do some groundwork to get recommendations about which standards are most desirable, and where to find a summary/listing of them. I found this, but do not know if it is the complete/only/best list: <http://www.chicagomanualofstyle.org/tools_proof.html>
-					* Comment BY 'Dan Whaley'
-						* Thank you, great start! Curious to find more resources like this!
 * All version control/track changes functionality listed above would be crucial to this phase.
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:27:01'  
-		* NOTE: 'Yep.'
 
 ## Publication
 
@@ -79,21 +71,11 @@ Accordingly this document outlines features, questions, and requirements organiz
 
 ### Publisher/Editor/Manager
 * e-mail notifications
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:32:55'  
-		* 'We have reply email notifications on the short track for launch, code is already merged. Here: <https://github.com/hypothesis/h/pull/1378>  In terms of overall notifications (for instance, notify me of any annotation on a page), that is anticipated. Vision issue for tracking is here: <https://github.com/hypothesis/vision/issues/44>'
 * spam protection/blocking
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:33:30'
-		* 'Anticipated: <https://github.com/hypothesis/h/issues/825>'		
 * moderation/deletion of annotations or comments
-	* BY 'Dan Whaley' ON '2014-08-13T21:16:20'
-		* 'We've discussed. EXPLORE'
 * If a comment is flagged by another user, report to manager
-	* BY 'Dan Whaley' ON '2014-08-13T21:16:29'  
-		* 'EXPLORE'
 * higher-level view (ability to view all annotations) for a publication
 	* IE: could "watch" a specific article, but the ability to see annotations made across all articles.
-		* Comment BY 'Dan Whaley' ON '2014-08-13T20:37:32'
-		* 'This is a current feature of our stream view.'
 * metrics on annotations/comments
 	* who has annotated? how many times?
 	* when are annotations made?
@@ -101,12 +83,8 @@ Accordingly this document outlines features, questions, and requirements organiz
 	* number of annotations
 	* what is most commented/annotated article?
 	* would a separate dashboard/interface be required to display this data?
-  	* Comment BY 'Dan Whaley' ON '2014-08-13T20:53:34'
-  		* 'Anticipated: <https://github.com/hypothesis/vision/issues/75>'
 * pingbacks/trackbacks
 	* someone refers to an article from your journal in an annotation via DOI –notify me when this happens
-	* Comment BY 'Dan Whaley' ON '2014-08-13T20:53:51'  
-		* 'Interesting: EXPLORE'
 * editor's picks
 	* ability for the editor to go through and "promote" or highlight comments and annotations that are contribute to the conversation.
 
